@@ -1,0 +1,18 @@
+**Log on to Code Camp BD for more projects!***
+
+**Database Name: hms_code_camp_bd**
+
+
+
+**Admin Login Details**
+
+Email   : admin@ccbd.com
+Password: (Password on the YouTube video)
+
+
+**Doctor Login Details**
+
+ID      : ccbd
+Password: (Password on the YouTube video)
+
+
